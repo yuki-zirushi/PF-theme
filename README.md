@@ -23,13 +23,13 @@ https://docs.google.com/document/d/1srmZzmJuJY8ALd_QHt6h4f0alffnHc8tzuU9vYmL7f8/
 
 UI Flow<br>
 Admin<br>
-https://drive.google.com/file/d/1DzFO-KRQDamK4XiwZ-djKcXvm45zNGcb/view?usp=sharing<br>
+https://app.diagrams.net/#G1DzFO-KRQDamK4XiwZ-djKcXvm45zNGcb<br>
 SubAdmin<br>
-https://drive.google.com/file/d/1khABAp4GDptvbAJAt4q2ZOh4soxTGmeL/view?usp=sharing<br>
+https://app.diagrams.net/#G1khABAp4GDptvbAJAt4q2ZOh4soxTGmeL<br>
 Player<br>
-https://drive.google.com/file/d/1zvr4dJ72qNDHQP_QMlTmYgRKepDkVyQH/view?usp=sharing<br>
+https://app.diagrams.net/#G1zvr4dJ72qNDHQP_QMlTmYgRKepDkVyQH<br>
 Visitor<br>
-https://drive.google.com/file/d/1LrsTxtTensJiImOBhs22zwZk3cz08oUw/view?usp=sharing
+https://app.diagrams.net/#G1LrsTxtTensJiImOBhs22zwZk3cz08oUw
 
 ワイヤーフレーム
 
