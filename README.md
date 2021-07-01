@@ -29,12 +29,14 @@ https://docs.google.com/drawings/d/1OANatBDLqjXfeaxeMVPpOPLv5OB1UE0db18j2SeeDH8/
 
 ワイヤーフレーム
 
-ER図
+ER図<br>
+https://app.diagrams.net/#G1C-ap5HNuZJjrJ-QE4ma0wBUtT7p4XfVs
 
-テーブル定義書
+テーブル定義書<br>
+https://docs.google.com/spreadsheets/d/1TfjXwK2kR8k9-E1dUABua5ycTvIgMIPMI-PlJM_BPXg/edit?usp=sharing
 
-アプリケーション詳細設計
-
+アプリケーション詳細設計<br>
+https://docs.google.com/spreadsheets/d/14oYBkEOl9W4yaajskupbSsik5oF5FD3gj6d_JpRwjAY/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1ZBkKfYRC9YsImpBLNyuErKkjNPmAQs1Uw5L103a1YOU/edit?usp=sharing
