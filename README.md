@@ -18,6 +18,17 @@
 
 ## 設計書
 
+UI Flow
+
+ワイヤーフレーム
+
+ER図
+
+テーブル定義書
+
+アプリケーション詳細設計
+
+
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1ZBkKfYRC9YsImpBLNyuErKkjNPmAQs1Uw5L103a1YOU/edit?usp=sharing
 
