@@ -18,6 +18,9 @@
 
 ## 設計書
 
+機能一覧
+https://docs.google.com/document/d/1srmZzmJuJY8ALd_QHt6h4f0alffnHc8tzuU9vYmL7f8/edit
+
 UI Flow
 
 ワイヤーフレーム
