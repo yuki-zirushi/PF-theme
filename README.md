@@ -23,9 +23,9 @@ https://docs.google.com/document/d/1srmZzmJuJY8ALd_QHt6h4f0alffnHc8tzuU9vYmL7f8/
 
 UI Flow<br>
 Admin<br>
-https://docs.google.com/drawings/d/1ixwPzE2FR1aYFIQNtn_oKZu6T_O9lgjCU1bZUgyaVjA/edit?usp=sharing<br>
-Customer<br>
-https://docs.google.com/drawings/d/1OANatBDLqjXfeaxeMVPpOPLv5OB1UE0db18j2SeeDH8/edit
+https://app.diagrams.net/#G1DzFO-KRQDamK4XiwZ-djKcXvm45zNGcb<br>
+Player<br>
+https://app.diagrams.net/#G1zvr4dJ72qNDHQP_QMlTmYgRKepDkVyQH
 
 ワイヤーフレーム
 
