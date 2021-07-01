@@ -18,7 +18,7 @@
 
 ## 設計書
 
-機能一覧
+機能一覧<br>
 https://docs.google.com/document/d/1srmZzmJuJY8ALd_QHt6h4f0alffnHc8tzuU9vYmL7f8/edit
 
 UI Flow
