@@ -31,7 +31,11 @@ https://app.diagrams.net/#G1zvr4dJ72qNDHQP_QMlTmYgRKepDkVyQH<br>
 Visitor<br>
 https://app.diagrams.net/#G1LrsTxtTensJiImOBhs22zwZk3cz08oUw
 
-ワイヤーフレーム
+ワイヤーフレーム<br>
+Admin<br>
+https://drive.google.com/drive/folders/1wV9SwIPhSA8-u30HqewOb9JPOHnawMuI?ths=true
+Player<br>
+https://drive.google.com/drive/folders/1JW80MQEC7St9ooENBn9zwM-Z5zoHw5p8?ths=true
 
 ER図<br>
 https://app.diagrams.net/#G1C-ap5HNuZJjrJ-QE4ma0wBUtT7p4XfVs
