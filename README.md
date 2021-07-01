@@ -33,7 +33,7 @@ https://app.diagrams.net/#G1LrsTxtTensJiImOBhs22zwZk3cz08oUw
 
 ワイヤーフレーム<br>
 Admin<br>
-https://drive.google.com/drive/folders/1wV9SwIPhSA8-u30HqewOb9JPOHnawMuI?ths=true
+https://drive.google.com/drive/folders/1wV9SwIPhSA8-u30HqewOb9JPOHnawMuI?ths=true<br>
 Player<br>
 https://drive.google.com/drive/folders/1JW80MQEC7St9ooENBn9zwM-Z5zoHw5p8?ths=true
 
